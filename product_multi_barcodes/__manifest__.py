@@ -15,7 +15,7 @@
     'category': 'Generic Modules',
     'version': '1.0',
     'currency': 'EUR',
-    'price': 25.0,
+    'price': 35.0,
     'depends': ['point_of_sale', 'stock'],
 
 
