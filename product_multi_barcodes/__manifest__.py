@@ -23,6 +23,9 @@
         'views/malik.xml',
         'views/malik_v.xml',
     ],
+    'images': [
+        'static/description/banner.png',
+    ],
 
     'demo': [
         #'demo/demo.xml',
